@@ -1,4 +1,4 @@
 {
   "Version": 0.0,
-  "InstallerName": "ZVIAppInstaller.exe"
+  "Installer": "ZVIAppInstaller.exe"
 }
